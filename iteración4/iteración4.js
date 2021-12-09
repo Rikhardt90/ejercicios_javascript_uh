@@ -32,5 +32,6 @@ console.log(rickAndMortyCharacters[0], rickAndMortyCharacters[3])
 
 //1.6
 
-
+rickAndMortyCharacters.splice(1, 1);
+console.log(rickAndMortyCharacters);
 
